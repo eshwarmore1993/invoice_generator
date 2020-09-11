@@ -11,16 +11,10 @@ const invoice = {
   },
   items: [
     {
-      item: "TC 100",
-      description: "Toner Cartridge",
-      quantity: 2,
-      amount: 6000
-    },
-    {
-      item: "USB_EXT",
-      description: "USB Cable Extender",
-      quantity: 1,
-      amount: 2000
+      item: "Biomass Briquetts",
+      description: "44011010",
+      quantity: 18.87,
+      rate: 4800
     }
   ],
   subtotal: 8000,

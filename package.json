@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "pdfkit": "^0.9.0"
+    "pdfkit": "^0.9.0",
+    "to-words": "^2.2.1"
   }
 }

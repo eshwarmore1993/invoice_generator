@@ -26,3 +26,9 @@ To learn more about this project, make sure to read the accompanying [blog post]
 Please ensure
 [you have signed our CLA](https://pspdfkit.com/guides/web/current/miscellaneous/contributing/) so that we can
 accept your contributions.
+
+#To Install (1 time)
+npm install
+
+#To generate invoice
+node index
